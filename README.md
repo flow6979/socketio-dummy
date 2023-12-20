@@ -1,1 +1,1 @@
-# socketio-dummy
+A bare minimum Socket.io implementation.
